@@ -1,0 +1,4 @@
+torch~=2.2.0
+requests~=2.31.0
+matplotlib~=3.8.3
+scikit-learn~=1.4.1.post1
